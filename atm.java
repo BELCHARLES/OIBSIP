@@ -89,6 +89,7 @@ public class atm {
                 }
             }
 
+            
             System.out.println("\nSelect an option:");
             System.out.println("1. Check Balance");
             System.out.println("2. Deposit");
@@ -137,7 +138,7 @@ public class atm {
                     System.out.println("Thank you for using the ATM!");
                     break;
                 default:
-                    System.out.println("Invalid choice. Please select a valid option.");
+                    System.out.println("Invalid option. Please select a valid option.");
             }
         }
 
