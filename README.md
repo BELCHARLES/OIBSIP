@@ -1,7 +1,7 @@
 # OIBSIP
 
 # Number Guessing Game - Task 2
-<!-- number.java -->
+File: number.java
 
 The "Number Guessing Game" is a simple Java program that challenges players to guess a randomly generated number within a specified number of attempts. The game consists of three rounds, each with a different maximum number of attempts allowed. Players earn scores based on how quickly they guess the correct number, and their total score is calculated at the end of the three rounds.
 
@@ -39,7 +39,7 @@ The "Number Guessing Game" is a fun and straightforward program that introduces 
 -----------------------------------------------------------------------------------------------------------------
 
 # ATM Interface  - Task 3
-<!-- atm.java -->
+File: atm.java
 
 This Java program implements a simple ATM (Automated Teller Machine) system that allows users to perform various banking operations, such as checking account balance, making deposits, making withdrawals, viewing transaction history, resetting PIN, logging in, and logging out. The program is text-based and interactively communicates with the user through the console.
 
